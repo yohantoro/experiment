@@ -1,0 +1,21 @@
+{
+    "name": "yohantoro/sesuatu",
+    "description": "Just an experiment. Don't use it!",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "yohantoro",
+            "email": "yohantoro.prakasita@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "yohantoro\\sesuatu\\": ""
+        }
+    }
+}
