@@ -1,6 +1,6 @@
 Sesuatu
 =======
-Just an experiment. Don't use it!
+Just an experiment. Don't use it! It's not worth at all.
 
 Installation
 ------------
